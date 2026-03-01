@@ -1,6 +1,4 @@
-# VCC_assignment_2
-
-#  Cloud Auto-Scaling and Security Implementation (GCP)
+# # Cloud Auto-Scaling and Security Implementation (GCP)
 
 ##  Project Overview
 
